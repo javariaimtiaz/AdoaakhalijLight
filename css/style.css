@@ -28,7 +28,7 @@ body {
 	font-weight:300;
 	line-height:1.6em;
 	color:#656565;
-	overflow-x:hiddien;
+	overflow-x:hidden;
 }
 
 a:active {
