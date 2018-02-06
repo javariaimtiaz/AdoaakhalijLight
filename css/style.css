@@ -30,7 +30,10 @@ body {
 	color:#656565;
 	overflow-x:hidden;
 }
-
+.myRow{
+	margin-left: 4px;
+	margin-right: 4px;
+}
 a:active {
 	outline:0;
 }
